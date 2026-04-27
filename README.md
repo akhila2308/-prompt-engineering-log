@@ -13,7 +13,7 @@
 
 | Week | Days Logged | Status |
 |------|-------------|--------|
-| Week 1 | 1 / 7 | 🔜 Starting |
+| Week 1 | 1 / 7 | 🟢 In Progress |
 | Week 2 | 0 / 7 | ⏳ Upcoming |
 | Week 3 | 0 / 7 | ⏳ Upcoming |
 | Week 4 | 0 / 7 | ⏳ Upcoming |
