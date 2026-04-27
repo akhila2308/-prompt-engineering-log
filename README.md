@@ -13,7 +13,7 @@
 
 | Week | Days Logged | Status |
 |------|-------------|--------|
-| Week 1 | 0 / 7 | 🔜 Starting |
+| Week 1 | 1 / 7 | 🔜 Starting |
 | Week 2 | 0 / 7 | ⏳ Upcoming |
 | Week 3 | 0 / 7 | ⏳ Upcoming |
 | Week 4 | 0 / 7 | ⏳ Upcoming |
@@ -24,23 +24,23 @@
 
 ---
 
-### Day 1 — [Date]
+### Day 1 — April 27, 2026
 
-**Module / Section:** *(e.g., Section 2: Foundations of Prompt Engineering)*
+**Module / Section:** Section 1 — Introduction (8/8 lessons) ✅
 
 **Key Concepts Learned:**
-- 
-- 
-- 
+- Prompt Engineering is the practice of crafting structured inputs to reliably control AI model outputs
+- The course covers both non-coder and coder tracks — coding-specific content is optional but available
+- A 705-prompt pack and a GitHub resource repo are provided as reference material throughout the course
 
 **Technique Practiced:**
-*(What prompt technique did you try? Zero-shot? Chain-of-thought? Role prompting?)*
+*(None yet — Section 1 is orientation. Techniques begin from Section 2.)*
 
 **Mini Experiment:**
-*(Optional: What did you test? What was the output? What surprised you?)*
+*(None today — setup and resource access.)*
 
 **My Takeaway:**
-*(1-2 sentences in your own words — what clicked today?)*
+Prompt Engineering isn't just "writing better sentences" — the course frames it as a systematic skill with structure and methodology. Starting tomorrow with actual techniques.
 
 ---
 
