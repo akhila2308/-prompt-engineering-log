@@ -1,7 +1,7 @@
 # 📓 Prompt Engineering Learning Log
 
 **Course:** The Complete Prompt Engineering for AI Bootcamp (2026)  
-**Start Date:** April 2026  
+**Start Date:** 27 April 2026  
 **Learner:** [Akhila](https://github.com/akhila2308) · B.Tech CSE (AI/ML)  
 **Goal:** Build deep, demonstrable expertise in prompt engineering as a foundation for AI/ML engineering
 
